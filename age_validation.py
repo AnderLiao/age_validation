@@ -11,3 +11,5 @@ elif country == 'US':
 		print('You are eligible to get a driver license')
 	else:
 		print('Sorry, you must be 18 and above as a minimum requirement')
+else:
+	print('You only can check the availability for TW and US')
